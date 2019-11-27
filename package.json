@@ -17,6 +17,14 @@
   },
   "homepage": "https://github.com/vkguru/teamwork#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "codeclimate": "0.0.32",
+    "express": "^4.17.1",
+    "travis-ci": "^2.2.0"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.9",
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
   }
 }
