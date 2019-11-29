@@ -21,6 +21,7 @@
   "dependencies": {
     "codeclimate": "0.0.32",
     "express": "^4.17.1",
+    "jasmine-node": "^3.0.0",
     "travis-ci": "^2.2.0"
   },
   "devDependencies": {
